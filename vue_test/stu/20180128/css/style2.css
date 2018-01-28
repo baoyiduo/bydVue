@@ -1,0 +1,42 @@
+.first{
+	width: 100%;
+	height:210px;
+	border: 1px solid #eee;
+	margin-bottom: 20px;
+	background-color: #fff;
+}
+
+.nav{
+	width: 96%;
+	height:50px;
+	border-bottom: 1px solid #eee;
+	margin:0 2%;
+}
+.nav img{
+	width: 20px;
+	height:20px;
+	margin-left: 5px;
+	}
+.nav p{
+	display: inline;
+	line-height: 50px;
+}
+.nav span{
+    float: right;
+    line-height: 50px;
+}
+.content{
+	width: 96%;
+	height:200px;
+	margin:10px 2%;
+}
+.content img{
+	height:12px;
+	width:12px;
+	margin-bottom: 5px;
+}
+.pic img{
+	width:85px;
+	height: 85px;
+	margin-top: 10px;
+}

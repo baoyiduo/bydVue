@@ -1,0 +1,80 @@
+body{
+	background:#323542;
+}
+.tit{
+	text-align:center;
+	color: #fff;
+	font-size: 20px;
+    margin: 30px auto;
+}
+.login-content{
+	width: 80%;
+	margin: 10% auto;
+}
+.login-content form{
+	width: 100%;
+	margin-bottom: 10px;
+}
+.login-content form div{
+	background-color: rgba(255,255,255,0.1);
+	height: 40px;
+	border-radius:5px;
+	margin:30px  auto;
+}
+.login-content form div  span{
+	display:inline-block;
+	width: 40px;
+	height:40px;
+}
+.login-content form div img{
+	width: 20px;
+    height: 20px;
+    margin: 10px 10px;
+}
+.login-content form div input{
+	width: 60%;
+    height: 35px;
+    background: transparent;
+    padding: 0 5px;
+    line-height: 35px;
+    color: #fff;
+}
+.login-content form button{
+	width: 100%;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 5px;
+    background-color: red;
+    color: #fff;
+    letter-spacing: 5px;
+}
+.login-btn{
+	width: 100%;
+    height: 40px;
+    line-height: 40px;
+    margin: 10px auto;
+    border-radius: 5px;
+    background-color: #323542;
+    color: #9598a5;
+    letter-spacing: 5px;
+    border: 1px solid #9598a5;
+}
+.login-a{
+	text-decoration: none;
+	color: #fff;
+	margin-top:30px;
+}
+.wjmm{
+	float: left;
+}
+.mfzc{
+	float: right;
+}
+.header{
+	width: 100%;
+	height: 40px;
+	background-color: yellow;
+	position: fixed;
+	bottom:0;
+	left:0;
+}
